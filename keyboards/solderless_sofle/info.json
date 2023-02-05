@@ -1,0 +1,21 @@
+{
+    "manufacturer": "Sebastian Dümcke",
+    "keyboard_name": "solderless_sofle",
+    "maintainer": "sam-d",
+    "bootloader": "caterina",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": false,
+        "nkro": true
+    },
+    "processor": "atmega32u4",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x9124",
+        "vid": "0xFEED"
+    }
+}
